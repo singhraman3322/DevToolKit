@@ -4,7 +4,7 @@ A list of helpful material to develop  Website/Softwrae using frameworks, Librar
 
 ##Contributing
 Please send a pull request to add any links and use the issues for general questions, thanks!
-heart:  by [G.S.Menntal](http://www.menntal.com/). Follow us on [Twitter](https://twitter.com/gsmenntal) to get latest news about it first!
+###heart:by [G.S.Menntal](http://www.menntal.com/). Follow us on [Twitter](https://twitter.com/gsmenntal) to get latest news about it first!
 
 
 ##Agnular2
