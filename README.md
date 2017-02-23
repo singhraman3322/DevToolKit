@@ -23,3 +23,9 @@ Please send a pull request to add any links and use the issues for general quest
 
 ##JQueryUI
 http://gijgo.com/   MIT/ Bootstrap and jQuery UI / WIDGETS:- Grid, Dialog, Tree, Dragable, Dropable, 
+
+
+#eBooks
+http://ebook-dl.com
+http://www.it-ebooks.info
+http://www.ebook777.com
