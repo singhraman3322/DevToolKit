@@ -1,0 +1,24 @@
+delete Current row after conformation from server side,
+Note, Always first of all, find and declare closes TR before going to ajax method
+
+<script>
+    $(document).ready()
+    {
+        $(".btnConfirm").click(function () {
+            var $tr = $(this).closest('tr');
+            $.ajax({
+                type: 'POST',
+                url: '@Url.Action("ConfirmUniversity", "University")',
+                data: "{UniversityId:" + $(this).attr('MyTag') + "}",
+                contentType: "application/json; charset=utf-8",
+                success: function (response) {
+                    alert(response);
+                    if (response == "true") {
+                        $tr.remove();
+                    }
+                }
+            });
+        });
+    };
+</script>
+
