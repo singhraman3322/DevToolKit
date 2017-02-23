@@ -1,0 +1,21 @@
+NO AD-HOC OR TETHERING IS REQUIRED.
+
+1. Run CMD with administrator rights.
+2. Type these commands with one followed by another
+(i) netsh wlan set hostednetwork mode=allow ssid=K402_www.menntal.com key=whoru2014
+(ii)netsh wlan start hostednetwork
+
+
+
+
+(the name and password could be anything as you desire)
+
+3.Type ncpa.cpl in the RUN command.
+4. Choose the internet network you normally use. Then double click and navigate to properties and then to the sharing. 
+Check the box and choose the network that corresponds to the network you just created.
+5. Click OK and done.
+6. A WIFI network would be created and you can use it to connect to the internet in your Android device.
+
+
+NOTE: If you want to delete the network paste this in the cmd:
+netsh wlan stop hostednetwork
