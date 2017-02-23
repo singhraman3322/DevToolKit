@@ -20,3 +20,6 @@ Please send a pull request to add any links and use the issues for general quest
 * http://formvalidation.io/ best validator for bootstrape/JQueryUI/Foundation (but it is paid)
 * http://www.daterangepicker.com/   Datetime picker 
 * http://www.malot.fr/bootstrap-datetimepicker/index.php Datetime picker
+
+##JQueryUI
+http://gijgo.com/   MIT/ Bootstrap and jQuery UI / WIDGETS:- Grid, Dialog, Tree, Dragable, Dropable, 
