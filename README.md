@@ -26,6 +26,6 @@ http://gijgo.com/   MIT/ Bootstrap and jQuery UI / WIDGETS:- Grid, Dialog, Tree,
 
 
 #eBooks
-http://ebook-dl.com
-http://www.it-ebooks.info
-http://www.ebook777.com
+* http://ebook-dl.com
+* http://www.it-ebooks.info
+* http://www.ebook777.com
