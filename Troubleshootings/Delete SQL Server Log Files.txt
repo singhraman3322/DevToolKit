@@ -1,0 +1,10 @@
+
+alter database DatabaseName set recovery simple
+go
+checkpoint
+go
+
+alter database DatabaseName set recovery full
+go
+dbcc shrinkfile (N'DatabaseName_log' , 1)
+go
